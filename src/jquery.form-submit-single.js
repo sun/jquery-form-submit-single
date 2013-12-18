@@ -11,9 +11,11 @@
   "use strict";
   if (typeof exports === 'object') {
     factory(require('jquery'));
-  } else if (typeof define === 'function' && define.amd) {
+  }
+  else if (typeof define === 'function' && define.amd) {
     define(['jquery'], factory);
-  } else {
+  }
+  else {
     factory(jQuery);
   }
 }(function ($) {
