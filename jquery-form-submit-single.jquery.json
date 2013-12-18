@@ -1,0 +1,32 @@
+{
+  "name": "form-submit-single",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "title": "jQuery Form Double-Submit Prevention",
+  "description": "Prevents consecutive form submissions of identical form values.",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://sun.mit-license.org/2013"
+    }
+  ],
+  "keywords": [
+    "form",
+    "submit",
+    "event"
+  ],
+  "author": {
+    "name": "Daniel F. Kudwien",
+    "url": "http://unleashedmind.com/"
+  },
+  "maintainers": [
+    {
+      "name": "sun",
+      "url": "https://github.com/sun"
+    }
+  ],
+  "download": "https://github.com/sun/jquery-form-submit-single/releases",
+  "bugs": "https://github.com/sun/jquery-form-submit-single/issues"
+}
