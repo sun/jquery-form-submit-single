@@ -1,16 +1,17 @@
 {
   "name": "jquery-form-submit-single",
   "version": "1.0.0",
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
   "main": "src/jquery.form-submit-single.js",
   "description": "Prevents consecutive form submissions of identical form values.",
   "homepage": "https://github.com/sun/jquery-form-submit-single",
   "license" : [ "http://sun.mit-license.org/2013" ],
   "keywords": [
     "jquery",
-    "form"
-  ],
-  "author": {
-    "name": "sun",
-    "web": "http://unleashedmind.com/"
-  }
+    "form",
+    "submit",
+    "event"
+  ]
 }
